@@ -1,3 +1,1 @@
-WebSim Vibe Coding Starter
-
-all tools are free 
+收集互联网的反馈 给出公司、团队是功能型还是赋能型
